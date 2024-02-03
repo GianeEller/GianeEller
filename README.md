@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GianeEller
 - 👀 I’m interested in  learn technology and programming
-- 🌱 I’m currently learning python e java
+- 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on processes to improve people's lives
 - 📫 How to reach me, @gieller8
 <!---
